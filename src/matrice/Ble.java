@@ -9,4 +9,8 @@ public class Ble extends Ressource{
 		this.id = id;
 	}
 
+	public String getId() {
+		return id;
+	}
+
 }

@@ -7,4 +7,8 @@ public class ObjetManufacture {
 		this.type = type;
 	}
 
+	public String getType() {
+		return type;
+	}
+
 }
